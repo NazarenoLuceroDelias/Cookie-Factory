@@ -1,4 +1,4 @@
-package examen.clases;
+package Resolucion.clases;
 
 public class Galletita {
 	private static final double GRAMOS_DESEADOS = 10;
