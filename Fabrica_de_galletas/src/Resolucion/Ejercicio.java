@@ -1,6 +1,6 @@
-package examen;
+package Resolucion;
 
-import examen.clases.FabricaDeGalletitas;
+import Resolucion.clases.FabricaDeGalletitas;
 
 public class Ejercicio {
 	public static void main(String[] args) {
