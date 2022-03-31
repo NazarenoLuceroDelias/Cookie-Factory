@@ -1,4 +1,4 @@
-package examen.clases;
+package Resolucion.clases;
 
 import java.util.ArrayList;
 
